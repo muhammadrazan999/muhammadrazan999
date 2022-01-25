@@ -11,8 +11,11 @@ Saya Razan saya seorang Mahasiswa dari Informatika umbandung, saya pegiat cyber 
 ## 🛠 Kemampuan
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-, CSS, PHP, C++, C#, Ibis Paint...
+
+
+PHP, C++, C#, Ibis Paint...
 
 ## 🔗 Kontak Saya
 
